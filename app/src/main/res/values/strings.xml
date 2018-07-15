@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Business idea creator</string>
+    <string name="newOrImpr">New thing or improving something?</string>
+    <string name="need">Need</string>
+    <string name="need_comment">How much people need this service?</string>
+    <string name="control">Control</string>
+    <string name="control_comment">How much are you in control of your environment?</string>
+    <string name="entry">Entry</string>
+    <string name="entry_comment">How hard is it to start this business?</string>
+    <string name="scale">Scale</string>
+    <string name="scale_comment">How scalable is your business?</string>
+    <string name="time">Time</string>
+    <string name="time_comment">How little you need to work to maintain this business?</string>
+    <string name="business_problems">What problem/problems does your business solve?</string>
+    <string name="list_empty">You have no ideas. Add one.</string>
+    <string name="list_empty_recyclerview">Empty...</string>
+    <string name="alert_cancel">CANCEL</string>
+    <string name="alert_yes">YES</string>
+
+    <string name="back_pressed_alert">Are you sure you want to delete this idea?</string>
+
+</resources>
